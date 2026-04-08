@@ -18,6 +18,14 @@ The design follows the real clinic workflow from **appointment → consultation 
 
 ---
 
+## ER Diagram
+
+> Replace the image path below with your exported diagram file inside the repository.
+
+![Clinic ER Diagram](./clinic-er-diagram.png)
+
+---
+
 ## Objective
 
 The main goal of this ER diagram is to represent how a clinic stores and connects its data in a simple, normalized, and practical way.
@@ -187,14 +195,6 @@ Payments can be connected to a consultation and optionally to an appointment, de
 
 ### Specialty is normalized
 Instead of storing specialty as plain text inside the doctor table, it is handled separately for cleaner design and better scalability.
-
----
-
-## ER Diagram
-
-> Replace the image path below with your exported diagram file inside the repository.
-
-![Clinic ER Diagram](./clinic-er-diagram.png)
 
 ---
 
