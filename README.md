@@ -20,8 +20,6 @@ The design follows the real clinic workflow from **appointment → consultation 
 
 ## ER Diagram
 
-> Replace the image path below with your exported diagram file inside the repository.
-
 ![Clinic ER Diagram](./clinic-er-diagram.png)
 
 ---
